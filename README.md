@@ -3,7 +3,7 @@
 
 - 🔭 You can see my project [LaTeX-Modern-Document](https://github.com/thomasbenas/LaTeX-modern-document)
 
-- 🌱 I’m currently **in "licence informatique" (computer science degree) at Dijon**
+- 🌱 I’m currently **in "Master informatique" (computer science degree) at Dijon**
 
 - 👨‍💻 My portfolio [https://thomas.benas.fr/](https://thomas.benas.fr/)
 
