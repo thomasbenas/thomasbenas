@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Bénas</h1>
-<h3 align="center">A passionate student in IT field and web developer from France</h3>
+<h3 align="center">A passionate student in IT field from France</h3>
 
 - 🔭 You can see my project [LaTeX-Modern-Document](https://github.com/thomasbenas/LaTeX-modern-document)
 
