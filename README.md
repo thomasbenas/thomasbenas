@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas Bénas</h1>
 <h3 align="center">A passionate student in IT field from France</h3>
 
-- 🔭 You can see my project [LaTeX-Modern-Document](https://github.com/thomasbenas/LaTeX-modern-document)
+- 🔭 You can see my project [LaTeX-report-template](https://github.com/thomasbenas/LaTeX-report-template)
 
 - 🌱 I’m currently **in "Master informatique" (computer science degree) at Dijon**
 
