@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thomas@benas.fr**
 
-- 📄 Know about my experiences [https://thomas.benas.fr/cv]([https://thomas.benas.fr/cv](https://thomas.benas.fr/CV-2022_Thomas_Benas.pdf))
+- 📄 Know about my experiences [https://thomas.benas.fr/CV-2022_Thomas_Benas.pdf](https://thomas.benas.fr/CV-2022_Thomas_Benas.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
