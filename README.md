@@ -3,13 +3,13 @@
 
 - 🔭 You can see my project [LaTeX-report-template](https://github.com/thomasbenas/LaTeX-report-template)
 
-- 🌱 I’m currently **in "Master informatique" (computer science degree) at Dijon**
+- 🌱 I am currently a consultant at Sogeti in Dijon
 
 - 👨‍💻 My portfolio [https://thomas.benas.fr/](https://thomas.benas.fr/)
 
 - 📫 How to reach me **thomas@benas.fr**
 
-- 📄 Know about my experiences [https://thomas.benas.fr/CV-2022_Thomas_Benas.pdf](https://thomas.benas.fr/CV-2022_Thomas_Benas.pdf)
+- 📄 Know about my experiences : [CV](https://thomas.benas.fr/CV-2022_Thomas_Benas.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
